@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  height: 0.4rem;
+  background-color: #d7d7d7;
+  position: relative;
+  z-index: 1;
+}
+
+.container > div {
+  flex-grow: 1;
+}
+
+.weak {
+  background-color: red;
+}
+
+.medium {
+  background-color: yellow;
+}
+
+.strong {
+  background-color: green;
+}

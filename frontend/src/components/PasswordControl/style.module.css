@@ -1,0 +1,10 @@
+.passwordControl {
+  padding-right: 2.375rem;
+}
+
+.visibilityToggler {
+  position: absolute;
+  top: 50%;
+  right: 0.688rem;
+  transform: translateY(-50%);
+}

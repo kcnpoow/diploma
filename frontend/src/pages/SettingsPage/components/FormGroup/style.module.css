@@ -1,0 +1,25 @@
+.control {
+  width: 100%;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  padding-left: 0;
+  border: none;
+}
+
+.control:focus {
+  outline: none;
+}
+
+.controlChangeMode {
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+  background-color: #eeeeee;
+}
+
+.changeBtn {
+  color: #0d6efd;
+}
+
+.cancelBtn {
+  color: #dc3545;
+}
